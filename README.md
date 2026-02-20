@@ -9,13 +9,13 @@ First take all the three inputs, then initialise the discount as 0 but if the to
 
 Sample Output:
 
-Welcome to the store..........
+	Welcome to the store..........
 
-Enter price of item 1: 22
+	Enter price of item 1: 22
 
-Enter price of item 2: 34
+	Enter price of item 2: 34
 
-Enter price of item 3: 56
+	Enter price of item 3: 56
 
 		Total price:  112
 		Discount applied: 11.20
