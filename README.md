@@ -17,9 +17,9 @@ Sample Output:
 
 	Enter price of item 3: 56
 
-		Total price:  112
-		Discount applied: 11.20
-		Final amount: 100.80
+			Total price:  112
+			Discount applied: 11.20
+			Final amount: 100.80
 
 
-	Thank you for shopping with us.......
+		Thank you for shopping with us.......
