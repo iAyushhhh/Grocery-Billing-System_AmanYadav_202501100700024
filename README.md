@@ -12,7 +12,9 @@ Sample Output:
 Welcome to the store..........
 
 Enter price of item 1: 22
+
 Enter price of item 2: 34
+
 Enter price of item 3: 56
 
 		Total price:  112
